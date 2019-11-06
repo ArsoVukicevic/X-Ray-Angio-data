@@ -1,0 +1,23 @@
+                                      Format: 'DICOM'
+                               FormatVersion: 3
+                                       Width: 512
+                                      Height: 512
+                                    BitDepth: 8
+                                   ColorType: 'grayscale'
+                                    Modality: 'XA'
+                                Manufacturer: 'Siemens'
+                             InstitutionName: 'KC Kragujevac/116CFE/'
+                    DistanceSourceToDetector: 1148
+                     DistanceSourceToPatient: 809.8909
+    EstimatedRadiographicMagnificationFactor: 1.4175
+                                ExposureTime: 306
+                             XrayTubeCurrent: 799
+                           AveragePulseWidth: 6.8000
+                          ImagerPixelSpacing: [2x1 double]  =  [ 0.3080, 0.3080]
+                            PositionerMotion: 'STATIC'
+                      PositionerPrimaryAngle: 46.3000
+                    PositionerSecondaryAngle: -26.7000
+                              NumberOfFrames: 45
+                                        Rows: 512
+                                     Columns: 512
+                              

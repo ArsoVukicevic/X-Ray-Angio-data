@@ -1,0 +1,1 @@
+MSCT - folder with MSCT data (dicoms and reconstructed mesh by using marching cubes)

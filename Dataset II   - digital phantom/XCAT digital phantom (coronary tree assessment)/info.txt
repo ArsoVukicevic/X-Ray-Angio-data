@@ -1,0 +1,11 @@
+The results are delivered as it is.
+
+Orientation of the Proposed-obtained mesh does not match the orignal (due to the nature of the calibration procedure). 
+
+You can use some geometry processing tool to fit them (if needed) or contact authors (if need some help).
+
+
+
+*We are not allowed to share XCTA framework original-source files, please consider dx.doi.org/10.1118/1.3480985 
+and https://olv.duke.edu/technologies/4d-extended-cardiac-torso-xcat-phantom-version-2-0/
+then use provided parameters (folder XCAT files) to generate own projections.

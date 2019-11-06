@@ -1,0 +1,18 @@
+REFERENT GEOMETRY
+
+1. mrezaSTL_ground truth.stl 	 - the mesh used to produce XRA projections with the XCAT framework.
+
+
+OBTAINED RECONSTRUCTIONS (multiview approach)
+
+2. mrezaSTL_proosedPolygonal.stl - the mesh from the generated 19 projections using the poligonal method for cross-section approximation
+
+3. mrezaSTL_Elipsa.stl       	 - the mesh from the generated 19 projections using the elipse fitting for cross-section approximation
+
+4. mrezaSTL_Krug.stl             - the mesh from the generated 19 projections using the circle fitting for cross-section approximation
+
+
+OBTAINED RECONSTRUCTIONS (two-view approach)	
+5. mrezaSTL_Krug12.stl           - the mesh from the generated 1st and 2nd projections using the circle fitting method for cross-section approximation
+   mrezaSTL_Krug13.stl           - the mesh from the generated 1st and 3rd projections
+   mrezaSTL_Krug14.stl           - the mesh from the generated 1st and 4th projections... etc

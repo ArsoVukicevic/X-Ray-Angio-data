@@ -1,0 +1,30 @@
+Source to detector distance (mm)
+ 1194.00000000
+Source to isocenter distance (mm)
+  765.00000000
+alpha (degrees)
+    0.00000000
+beta (degrees)
+   0.000000000
+Translation In 3D
+ 0 0 0
+Number of pixels in X
+  960.00000000
+Number of pixels in Y
+  960.00000000
+Spacing in X (mm)
+    0.18400000
+Spacing in Y (mm)
+    0.18400000
+X-ray source in 3D (mm)
+ -531.11811367  -323.30297023  -445.66101329
+Center of projected image in 3D (mm)
+  297.84270688   181.30323429   249.91970549
+Length of cardiac cycle in seconds in 3D (sec)
+    1.00000000
+Length of respiratory cycle in seconds in 3D (sec)
+    5.00000000
+Cardiac phase - value between 0 and 1 (0 = end-diastole, 0.4 = end-systole)
+    0.00000000
+Respiratory phase - value between 0 and 1 (0 = end-expiration, 0.455 = end-inspiration)
+    0.00000000
