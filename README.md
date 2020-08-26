@@ -1,6 +1,6 @@
 # X-Ray-Angio-data
 
-![](Graphical%20Abstract.jpg)
+![](Graphical%20abstract.jpg)
 
 Supporting data for the study "Reconstruction and structured meshing of coronary arteries from X-ray angiography"
 
@@ -8,4 +8,5 @@ Reference: Vukicevic, A.M., Çimen, S., Jagic, N. et al. Three-dimensional recon
 
 https://www.nature.com/articles/s41598-018-19440-9
 
+# Sample resonstructions obtained by the propoed algorithms
 ![](Figure%2008.jpg)
