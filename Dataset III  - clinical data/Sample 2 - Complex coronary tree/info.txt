@@ -1,2 +1,2 @@
-We aware audience that there was a bug in the code used for making images back in 2018.
+We aware audience that there was a bug in the code used for making images from medical data back in 2018.
 The bug resulted with the mirroring effect - illustrated in _2020_Dataset_III-C_2018(white)_vs_2020(red)_MP4.mp4
